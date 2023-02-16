@@ -5,7 +5,9 @@
 ### Tratamento de Dados na AWS - GLUE DataBrew
 #### 2 - Valores nulos removidos das colunas da planilha Dicionário Microdados
 
-### Data Warehouse 
-#### 3 - Utilizado o Redshift da AWS 
+### Data Warehousing
+#### 3 - Redshift da AWS - SQL
 
-
+### Importar arquivos da AWS para o Power BI
+#### Importação do DW para o PowerBI
+#### Dashboard no Power BI
