@@ -9,5 +9,5 @@
 #### 3 - Redshift da AWS - SQL
 
 ### Importar arquivos da AWS para o Power BI
-#### Importação do DW para o PowerBI
-#### Dashboard no Power BI
+#### 4- Importação do DW para o PowerBI
+#### 5- Dashboard no Power BI
